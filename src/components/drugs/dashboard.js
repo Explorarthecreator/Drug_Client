@@ -12,7 +12,7 @@ export default function Dashboard() {
           <div className="card2 h-fit w-full p-2 shadow-2xl">
             {/* <h2 className="mt-3 p-2 text-green-600">Hi {loggedIn.email}</h2> */}
             <h4 class="font-bold text-3xl mt-2 text-center">
-              WELCOME TO YOUR DASHBOARD
+              WELCOME TO YOUR DASHBOARD ss
             </h4>
           </div>
           <header></header>
